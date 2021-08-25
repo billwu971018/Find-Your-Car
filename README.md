@@ -6,6 +6,6 @@ Designed relational database systems (MySQL) for vehicle inventory and customer 
 
 Adapted Kruskal’s Shortest Path algorithm to find shortest routes for customers to visit the dealers in Chicago by constructing graphs for dealer locations using GeoPy and storing the graph sparsely in CSR matrix
 
-Led the whole process of project development and managed the project feature distribution and project delivery
+
 
 
